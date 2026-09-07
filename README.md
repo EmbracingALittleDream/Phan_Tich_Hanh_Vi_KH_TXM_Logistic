@@ -14,3 +14,6 @@ Trong thư mục Visualization chứ các 2 file PowerBi và 1 file LaTeX dùng 
 2. Phân_Tích_KH_Roi_Bo_DV là file PowerBi dùng để trực quan hóa dữ liệu khách hàng rời bỏ dịch vụ theo kênh, theo tháng
 3. TrucQuanHoaDuLieu_TXM_Logistic là file PowerBI dùng để trực quan hóa các số liệu thống kê khách hàng cũ -- khách hàng mới theo nguồn, theo tháng
 
+Trong thư mục Export_PDF_Visual chứa các file Dashboard có dạng pdf được xuất ra từ PowerBI 
+1. HR_Dashboard_OnGoing là Dashboard thống kê số nhân viên đang còn làm việc ở Tiximax
+2. HR_Dashboard_Off là Dashboard thống kê số nhân viên đã dừng làm việc ở Tiximax
