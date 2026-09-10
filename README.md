@@ -10,10 +10,13 @@ Trong thư mục Analyze chứa các file SQL dùng để truy vấn:
 Trong thư mục Report chứa file Google Sheet dùng để lưu trữ các giá trị thống kê được thu thập từ các câu lệnh truy vấn SQL
 
 Trong thư mục Visualization chứ các 2 file PowerBi và 1 file LaTeX dùng để trực quan hóa dữ liệu nhanh 
-1. Funnel_Analysis_For_New_Customer là file trực quan hóa dữ liệu phân tích tỷ lệ chuyển đổi trạng thái bằng cây phân loại và diễn giải ý nghĩa
-2. Phân_Tích_KH_Roi_Bo_DV là file PowerBi dùng để trực quan hóa dữ liệu khách hàng rời bỏ dịch vụ theo kênh, theo tháng
-3. TrucQuanHoaDuLieu_TXM_Logistic là file PowerBI dùng để trực quan hóa các số liệu thống kê khách hàng cũ -- khách hàng mới theo nguồn, theo tháng
+1. Phân_Tích_KH_Roi_Bo_DV là file PowerBi dùng để trực quan hóa dữ liệu khách hàng rời bỏ dịch vụ theo kênh, theo tháng
+2. TrucQuanHoaDuLieu_TXM_Logistic là file PowerBI dùng để trực quan hóa các số liệu thống kê khách hàng cũ -- khách hàng mới theo nguồn, theo tháng
+3. HR_Dashboard.pbix là file chứa source hình ảnh trong PowerBI dùng để trực quan hóa số liệu nhân viên còn làm việc và nhân viên đã nghỉ việc
+4. Business_Performance_Dashboard là file chứa source hình ảnh trong PowerBI dùng để trực quan hóa số liệu về đơn đặt hàng của công ty 
 
 Trong thư mục Export_PDF_Visual chứa các file Dashboard có dạng pdf được xuất ra từ PowerBI 
 1. HR_Dashboard_OnGoing là Dashboard thống kê số nhân viên đang còn làm việc ở Tiximax
 2. HR_Dashboard_Off là Dashboard thống kê số nhân viên đã dừng làm việc ở Tiximax
+3. Funnel_Analysis_For_New_Customer là file trực quan hóa dữ liệu phân tích tỷ lệ chuyển đổi trạng thái bằng cây phân loại và diễn giải ý nghĩa
+4. Business_Performance_Dashboard thống kê các chỉ số về đơn đặt hàng bằng hình ảnh 1 cách tổng quan, chi tiết theo loại đơn đặt hàng, chi tiết theo ngày đặt hàng
